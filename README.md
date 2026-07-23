@@ -45,7 +45,7 @@
 <div align="center">
 
 <a href="https://t.me/DeadmaidenILS"><img src="https://img.shields.io/badge/Telegram-24243e?style=for-the-badge&logo=telegram&logoColor=38bdf8"/></a>
-<a href="mailto:whoyou1994j4920@gmail.com"><img src="https://img.shields.io/badge/Email-24243e?style=for-the-badge&logo=gmail&logoColor=a78bfa"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=whoyou1994j4920@gmail.com"> <img src="https://img.shields.io/badge/Email-24243e?style=for-the-badge&logo=gmail&logoColor=a78bfa" alt="Email"> </a>
 <a href="https://anen135.github.io/portfolio/"><img src="https://img.shields.io/badge/Website-24243e?style=for-the-badge&logo=safari&logoColor=a78bfa"/></a>
 <!-- <a href="https://linkedin.com/in/ВАШ_ПРОФИЛЬ"><img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/></a> -->
 
