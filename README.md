@@ -1,8 +1,5 @@
 <div align="center" id="banner">
-<!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Hello,%20I'm Anen&fontSize=46&fontColor=38bdf8&fontAlignY=38&desc=I'm writing code that's nice to read.&descAlignY=55&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Hello,%20I%27m%20Anen&fontSize=46&fontColor=38bdf8&fontAlignY=38&desc=I%27m%20writing%20code%20that%27s%20nice%20to%20read.&descAlignY=55&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%" alt="Hello, I'm Anen"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=frontend+%2F+backend+%2F+everything+in+between;" alt="typing" />
 
@@ -27,6 +24,7 @@
 
 <div align="center">
 <div align="center" id="icons">
+<br/>
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,go,postgres,docker,git,figma,tailwind&theme=dark" />
 
