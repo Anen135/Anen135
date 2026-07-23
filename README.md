@@ -1,1 +1,9 @@
-<img width="450" height="195" alt="image" src="https://github.com/user-attachments/assets/0f52290d-b187-47f2-99ca-aa193e0e4c5e" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Anen135&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Anen135&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anen135&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Anen135&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
