@@ -1,1 +1,1 @@
-<img src="https://github.com/Anen135/Anen135/blob/main/public/output.gif?raw=true" height="300" alt="Banner">
+<img src="https://github.com/Anen135/Anen135/blob/main/public/banner.gif?raw=true" height="300" alt="Banner">
